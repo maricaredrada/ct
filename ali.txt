@@ -1,0 +1,295 @@
+806 Phil. 704 ← click for PDF copy
+THIRD DIVISION
+[ G.R. No. 197482. March 06, 2017 ]
+FORIETRANS MANUFACTURING CORP., AGERICO CALAQUIAN AND ALVIN MONTERO, PETITIONERS , VS. DAVIDOFF ET. CIE SA & JAPAN TOBACCO, INC . (REPRESENTED BY SYCIP SALAZAR HERNANDEZ & GATMAITAN LAW OFFICE THRU ATTY. RONALD MARK LLENO), RESPONDENTS.
+
+D E C I S I O N
+
+JARDELEZA, J.:
+
+This is a Petition for Review on  Certiorari[1] assailing the March 31, 2011 Decision[2] and July 5, 2011 Resolution[3]  of the Court of Appeals (CA) in CA-G.R. SP No. 94587.[4]  The CA reversed and set aside the February 10, 2006[5] and March 27, 2006[6]  Resolutions of the Secretary of Justice which found no probable cause to charge petitioners for the crimes of infringement and false designation of origin.
+
+I
+
+Davidoff Et. Cie SA (Davidoff) and Japan Tobacco, Inc. (JTI) [collectively, respondents] are non-resident foreign corporations organized and existing under the laws of Switzerland and Japan, respectively.[7]  They are represented in the Philippines by law firm SyCip Salazar Hernandez & Gatmaitan (SyCip Law Firm). It is authorized under a special power of attorney to maintain and prosecute legal actions against any manufacturers, local importers and/or distributors, dealers or retailers of counterfeit products bearing Davidoffs and JTI's trademarks or any products infringing their trademarks.[8]  Respondents also retained Business Profiles, Inc. (BPI) as their private investigator in the Philippines.[9]
+
+Meanwhile, petitioner Forietrans Manufacturing Corporation (FMC) is a domestic corporation with principal address at Lots 5 and 7, Angeles Industrial Park, Special Economic Zone, Barangay Calibutbut, Bacolor, Pampanga.[10]
+
+BPI reported to respondents that "there were counterfeit Davidoff and JTI products, or products bearing colorable imitation of Davidoff and .TTI products, or which are confusingly or deceivingly similar to Davidoff and JTI registered trademarks, being manufactured and stored" in FMC's warehouses.[11]  SyCip Law Firm then sought the assistance of the Criminal Investigation and Detection Group (CIDG) of the Philippine National Police in securing warrants to search the warehouses. Upon investigation, the CIDG confirmed the report of BPI. On August 4, 2004, PSI Joel L . De Mesa (PSI De Mesa) of the CIDG filed four separate applications for search warrant before the Regional Trial Court (RTC) of San Fernando, Pampanga. The applications were docketed as Search Warrant (SW) Case Nos. 044, 045, 046, and 047 and raffled to Branch 42 presided by Judge Pedro M. Sunga, Jr. (Judge Sunga).[12]
+
+In the applications, PSI De Mesa alleged that "he had been informed, concluded upon investigation, and believed that [FMC] and/or its proprietors, directors, officers, employees, and/or occupants of its premises stored counterfeit cigarettes" bearing: (a) the name "DAGETA International" purported to be made in Germany; and (b) the name "DAGETA" which was confusingly similar to the Davidoff trademark, a product of Imperial Tobacco, Inc. Thus, he asked the RTC to issue search warrants authorizing any peace officer to take possession of the subject articles and bring them before the court.[13]
+
+The RTC granted the applications. In the same afternoon of August 4, 2004, PSI Nathaniel Villegas ( PSI Villegas) and PSI Eric Maniego (PSI Maniego) implemented SW Nos. 044 and 046, while PSI De Mesa implemented SW Nos. 045 and 047. During their separate raids, the CIDG teams seized several boxes containing raw tobacco, cigarettes, cigarette packs, and cigarette reams bearing the name DAGETA and DAGETA International. They also secured machineries, receptacles, other paraphernalia, sales invoices and official receipts. Petitioner Agerico Calaquian, president of FMC, was allegedly apprehended at the premises along with four Chinese nationals. [14]
+
+On August 5, 2004, PSI Renato Bangayan (PSI Bangayan) of the CIDG filed an application for search warrant in relation to FMC's alleged illegal manufacture, packing and distribution of counterfeit cigarettes bearing reproductions of JTI's MILD SEVEN trademark, design and general appearance.[15]  On even date, SW No. 048 was issued and served, resulting in the seizure of cigarettes, cigarette packs and cigarette reams with MILD SEVEN trademark and designs. Machines used in the manufacturing of the cigarettes were also secured including sales invoices and official receipts.[16]
+
+With the seized items as evidence, three separate Complaint­ Affidavits were filed before the Office of the Provincial Prosecutor of San Fernando, Pampanga charging F MC and its employees with violation of Republic Act No. 8293, or the Intellectual Property Code of the Philippines (IP Code).[17]  The charges are as follows:
+I.S. No. OC . PSF-04-H-2047[18]  (Davidoff infringement case) - Infringement under Section 155 in relation to Section 170 of the IP Code for the illegal manufacture of cigarettes bearing the DAGETA label, with packaging very similar to the packaging of Davidoffs products a n d the script "DAGETA" on the packs being deceivingly or confusingly similar to the registered mark "DAVIDOFF." [19]
+
+I.S. No. OCPSF-04-H-2048 (False Designation of Origin) -False Designation of Origin under Section 169 in relation to Section 170 of the IP Code for the illegal manufacture and/or storage of cigarettes bearing the "DAGETA" label with an indication that such cigarettes were "MADE IN GERMANY" though they were actually processed, manufactured and packaged in FMC's office in Bacolor, Pampanga. [20]
+
+ I.S. No. OCPSF-04- H -2226 (JTI infringement case)- Infringement under Section 155 in relation to Section 170 of the IP Code for illegally manufacturing cigarettes which are deceivingly or confusingly similar to, or almost the same as, the registered marks of JTI, which are the "MILD SEVEN" and "MILD SEVEN LIGHTS" trademarks?[21]
+Calaquian denied the charges against him and FMC. He countered that during the August 4, 2004 raid, the CIDG did not find counterfeit cigarettes within FMC's premises as nobody was there at the time. He claimed that what the CIDG found were boxes of genuine Dageta and Dageta International cigarettes imported from Germany for re-export to Taiwan and China. Calaquian asserted that FMC is an eco-zone export enterprise registered with the Philippine Economic Zone Authority (PEZA), and is duly authorized by the National Tobacco Administration to purchase, import and export tobacco. FMC would not have passed PEZA's strict rules and close monitoring if it had engaged in trademark infringement. Calaquian also denies that the CIDG made arrests on the occasion of the raid.[22]
+
+In a Joint Resolution[23] dated September 12, 2005, Second Assistant Provincial Prosecutor Otto B. Macabulos (Prosecutor Macabulos) dismissed the criminal complaints. Prosecutor Macabulos found the affidavit of Jimmy Trocio (Trocio), the informant/witness presented by PSI De Mesa in his application for search warrants, clearly insufficient to show probable cause to search FMC's premises for fake JTI or Davidoff products. Trocio did not even testify that FMC is manufacturing fake Dageta cigarettes. The CIDG also did not find Dageta cigarettes during the raid, much less fake JTI or Davidoff products. This should have been reason enough to quash the warrant.[24]  Further, Prosecutor Macabulos held that there is no confusing similarity between the Dageta and Davidoff brands. Thus, he found the complaints for the Davidoff infringement and False Designation of Origin to be Without merit.[25]
+
+Prosecutor Macabulos also expressed disbelief over the allegation that Mild Seven and Mild Seven Lights were seized at FMC's premises. He averred that the Joint Affidavit of Arrest/Seizure dated August 6, 2004 never mentioned those cigarettes as among the items seized.  Furthermore, there was no proof that FMC manufactured fake Mild Seven cigarettes.[26]   Hence, he also dismissed the JTI infringement case.
+
+Respondents thereafter filed a Petition for Review before then Secretary of Justice Raul M . Gonzalez (Secretary Gonzalez).
+
+In his Resolution dated February 10, 2006, Secretary Gonzalez affirmed the ruling of Prosecutor Macabulos. He opined that the seizure of Dageta and Dageta International cigarettes from FMC's premises does not approve the commission of trademark infringement and false designation of origin. It cannot be said that there is confusing similarity between Davidoff cigarettes, and Dageta and Dageta International cigarettes. The difference in their names alone belies the alleged confusing similarity?[27]
+
+Secretary Gonzalez also affirmed the dismissal of the charge of false designation of origin. He ruled that respondents failed to establish the falsity of the claim indicated in the labels of Dageta and Dageta International cigarettes that they were made in Germany.[28]
+
+In addition, Secretary Gonzalez declared that the alleged discovery and seizure of Mild Seven and Mild Seven Lights in FMC's premises during the August 4 and 5, 2004 raids did not actually happen. He agreed with Calaquian that if indeed the officers and employees of FMC were found manufacturing or assisting or supervising the manufacture of Mild Seven and Mild Seven Lights during the raids, surely the raiding team would have arrested them then and there; but as it was, no arrest was apparently made. Secretary Gonzalez also agreed with Prosecutor Macabulos' observation that Mild Seven and Mild Seven Lights cigarettes were never mentioned among the items seized in the Joint Affidavit of Arrest/Seizure.[29]
+
+Respondents moved for reconsideration. This, however, was denied with finality by Secretary Gonzalez in his Resolution dated March 27, 2006. Respondents elevated the case to the CA via a petition for  certiorari. [30]
+
+The CA reversed the resolutions of Secretary Gonzalez. It adjudged that Secretary Gonzalez acted with grave abuse of discretion in affirming Prosecutor Macabulos' finding that no probable cause exists against FMC. The CA explained that Secretary Gonzalez assumed the function of the trial judge of calibrating the evidence on record when he ruled that
+The seizure of Mild Seven and Mild Seven Lights during the raid did not happen as the arresting officer failed to state in their Joint Affidavit that they seized the said cigarettes and if it were true that they seized these cigarettes, the raiding team would have arrested Mr. Calaquian and four Chinese nationals present during the raid; and
+
+The seizure of Dageta and Dageta International cigarettes does not prove that FMC violated the provisions on infringement of trademark and false designation of origin under the IP Code. [31]
+According to the CA, the foregoing involve evidentiary matters which can be better resolved in the course of the trial, and Secretary Gonzalez was combination thereof, or any false designation of origin, false or misleading description of fact, or false or misleading representation of fact, which:
+
+According to the CA, the foregoing involve evidentiary matters which can be better resolved in the course of the trial, and Secretary Gonzalez was not in a competent position to pass judgment on substantive matters.[32] Petitioners filed a partial motion for reconsideration, but this was denied by the CA. Hence, this petition.
+
+Petitioners fault the CA for interfering with the valid exercise by Prosecutor Macabulos and Secretary Gonzalez of the executive power to determine the existence or non-existence of probable cause in a preliminary investigation.[33] Heavily relying on the Joint Resolution issued by Prosecutor Macabulos, they allege that respondents did not present any proof to show probable cause to indict them for the crimes of infringement and false designation of origin.[34] They contend that Secretary Gonzalez affirmed the Joint Resolution and dismissed the criminal complaints based on insufficiency of evidence since there was no proof that FMC manufactured counterfeit Davidoff or Mild Seven cigarettes. Petitioners also insist that no court can order the prosecution of a person against whom the prosecutor does not find sufficient evidence to support at least a prima facie case.[35]
+
+In their Comment, respondents counter that the petition should be dismissed for failure to show any special and important reason for this Court to exercise its power of review. They claim that the petition is a mere rehash of FMC's arguments before the CA.[36]  In any case, respondents aver that the CA correctly reversed the Resolutions of Secretary Gonzalez. Secretary Gonzalez acted without or in excess of jurisdiction and with grave abuse of discretion when he completely disregarded the evidence attached to the criminal complaints and wrongfully assumed the function of a trial judge in passing upon factual or evidentiary matters which are best decided after a full-blown trial on the merits.[37]
+
+We are now asked to resolve whether the CA erred in ruling that Secretary Gonzalez committed grave abuse of discretion in finding no probable cause to charge petitioners with trademark infringement and false designation of origin.
+
+II
+
+We deny the petition.
+
+Probable cause, for purposes of filing a criminal action, is defined as such facts as are sufficient to engender a well-founded belief that a crime has been committed and that respondent is probably guilty thereof.[38]  It does not require an inquiry into whether there is sufficient evidence to procure conviction. Only prima facie evidence is required or that which is, on its face, good and sufficient to establish a given fact, or the group or chain of facts constituting the party's claim or defense; and which, if not rebutted or contradicted, Will remain sufficient.[39]
+
+The task of determining probable cause is lodged with the public prosecutor and ultimately, the Secretary of Justice. Under the doctrine of separation of powers, courts have no right to directly decide matters over which full discretionary authority has been delegated to the Executive Branch of the Government. Thus, we have generally adopted a policy of non-interference with the executive determination of probable cause.[40]  Where, however, there is a clear case of grave abuse of discretion, courts are allowed to reverse the Secretary of Justice's findings and conclusions on matters of probable cause.[41]
+
+By grave abuse of discretion is meant such capricious and whimsical exercise of judgment as is equivalent to lack of jurisdiction. The abuse of discretion is grave where the power is exercised in an arbitrary or despotic manner by reason of passion or personal hostility and must be so patent and gross as to amount to an evasion of positive duty or to a virtual refusal to perform the duty enjoined by or to act at all in contemplation of the law.[42]
+
+In Unilever Philippines, Inc. v. Tan, we have ruled that the dismissal of the complaint by the Secretary of Justice, despite ample evidence to support a finding of probable cause, clearly constitutes grave error and warrants judicial intervention and correction.[43]
+
+Here, we find that Secretary Gonzalez committed grave abuse of discretion when he disregarded evidence on record and sustained the Joint Resolution of Prosecutor Macabulos dismissing the criminal complaints against petitioners.
+
+A
+
+Preliminarily, we find that Secretary Gonzalez should have set aside the Joint Resolution on the ground that Prosecutor Macabulos did not undertake to determine the existence or non-existence of probable cause for the purpose of filing a criminal case. Nowhere in the Joint Resolution is it stated that the criminal complaints were dismissed on account of lack of probable cause for the filing of a case against petitioners. Instead, Prosecutor Macabulos attacked Judge Sunga's finding of probable cause for the issuance of search warrants in SW Nos. 044, 045, 046, 047 and 048. The pertinent portions of the Joint Resolution read:
+As can be seen supra, Trocio's affidavit was clearly insufficient to show probable cause to search FMC's premises and look for fake JTI or [Davidoff] products.
+
+x x x
+
+It would seem that reason had taken leave of the senses. The undeniable fact, standing out like a sore thumb, is that the applicants never presented a single shred of proof to show probable cause for the issuance of a search warrant. It would have been laughable if not for the fact that persons were arrested and detained and properties were confiscated.
+
+As can be seen, what began as a search for fake JTI and [Davidoff] products changed into a search for fake Dageta International cigarettes, then shifted to a sea[r]ch for fake Dageta cigarettes confusingly similar to Davidoff and finally shifted to fake mislabeled Dageta cigarettes. One can only wonder why the applications were granted without a shred of proof showing probable cause. The exception against unreasonable searches and seizures became the very weapon to commit abuses that the provision was designed to prevent.[44] (Emphasis supplied.)
+The determination of probable cause by the judge should not be confused with the determination of probable cause by the prosecutor. The first is made by the judge to ascertain whether a warrant of arrest should be issued against the accused, or for purposes of this case, whether a search warrant should be issued. The second is made by the prosecutor during preliminary investigation to determine whether a criminal case should be filed in court. The prosecutor has no power or authority to review the determination of probable cause by the judge, just as the latter does not act as the appellate court of the former.[45]  Here, as correctly argued by respondents, Prosecutor Macabulos focused on the evidence submitted before Judge Sunga to support the issuance of search warrants.[46] He lost sight of the fact that as a prosecutor, he should evaluate only the evidence presented before him during the preliminary investigation.  With his preconceived notion of the invalidity of the search warrants in mind, Prosecutor Macabulos appeared to have completely ignored the evidence presented by respondents during preliminary investigation.
+
+B
+
+The records show that a prima facie case for trademark infringement and false designation of origin exists against petitioners. Section 155 of the IP Code enumerates the instances when infringement is committed, viz.:
+Sec. 155. Remedies; Infringement.- Any person who shall, without the consent of the owner of the registered mark:
+
+155.1. Use in commerce any reproduction, counterfeit, copy, or colorable imitation of a registered mark or the same container or a dominant feature thereof in connection with the sale, offering for sale, distribution, advertising of any goods or services including other preparatory steps necessary to carry out the sale of any goods or services on or in connection with which such use is likely to cause confusion, or to cause mistake, or to deceive; or
+
+155.2. Reproduce, counterfeit, copy or colorably imitate a registered mark or a dominant feature thereof and apply such reproduction, counterfeit, copy or colorable imitation to labels, signs, prints, packages, wrappers, receptacles or advertisements intended to be used in commerce upon or in connection with the sale, offering for sale, distribution, or advertising of goods or services on or in connection with which such use is likely to cause confusion, or to cause mistake, or to deceive, shall be liable in a civil action for infringement by the registrant for the remedies hereinafter set forth: Provided, That the infringement takes place at the moment any of the acts stated in Subsection 155.1 or this subsection are committed regardless of whether there is actual sale of goods or services using the infringing material.
+The essential element of infringement is that the infringing mark is likely to cause confusion.[47]  In this case, the complaint-affidavit for the Davidoff infringement case alleged confusing similarity between the cigarette packs of the authentic Davidoff cigarette and the sample Dageta cigarette pack seized during the search of FMC's premises. Respondents submitted samples of the Davidoff and Dageta cigarette packs during the preliminary investigation. They noted the following similarities:[48]
+
+Davidoff (Exhibit 1)
+Dageta (Exhibit 2)
+Octagonal designed pack
+Octagonal designed pack
+Black and red covering
+Black and red covering
+Silver coloring of the tear tape and printing
+Silver coloring of the tear tape and printing
+"Made in Germany by Reemtsman under license of Davidoff & CIE SA, Geneva"
+"Made Germany under license of DAGETA & Tobacco LT"
+Manufacturing Code imprinted on the base of the pack	
+Manufacturing Code imprinted on the base of the pack
+Writing at the back says : "These carefully selected tobaccos have been skillfully blended to assure your pleasure" with the signature of Zino Davidoff	
+Writing at the back says: "These specifically selected tobaccos have been professionally blended to ensure highest quality" with Chinese letters underneath the name Dageta
+
+Both Prosecutor Macabulos and Secretary Gonzalez disregarded the foregoing evidence of respondents and confined their resolutions on the finding that there is an obvious difference between the names "Davidoff' and "Dageta." Petitioners likewise rely on this finding and did not bother to refute or explain the alleged similarities in the packaging of Davidoff and Dageta cigarettes. While we agree that no confusion is created insofar as the names "Davidoff' and "Dageta" are concerned, we cam1ot say the same with respect to the cigarettes' packaging. Indeed there might be differences when the two are compared. We have, in previous cases, noted that defendants in cases of infringement do not normally copy but only make colorable changes. The most successful form of copying is to employ enough points of similarity to confuse the public, with enough points of difference to confuse the courts.[49]
+
+Similarly, in their Complaint-Affidavit in the JTI infringement case, respondents aver that JTI is the registered owner of the Mild Seven and Mild Seven Lights trademarks; and that FMC manufactures cigarettes deceivingly or confusingly similar to, or almost the same as, the registered marks of JTI. They asserted that FMC is not authorized to manufacture, pack, distribute or otherwise deal in products using JTI's trademarks. Respondents also submitted authentic Mild Seven and Mild Seven Lights cigarettes and samples of the cigarettes taken from FMC's premises.[50]
+
+When Secretary Gonzalez dismissed respondents' complaint, he made a factual determination that no Mild Seven and Mild Seven Lights were actually seized from FMC's premises. He cited Prosecutor Macabulos' observation that the Joint Affidavit of Arrest/Seizure dated August 6, 2004 never mentioned the foregoing cigarettes as among the items seized. The CA, on the other hand, reversed the dismissal of the complaint and declared that the issue of whether or not there was an actual seizure of Mild Seven and Mild Seven Lights during the raid is evidentiary in character.
+
+We concur with the CA. The validity and merits of a party's defense or accusation, as well as the admissibility of testimonies and evidence, are better ventilated during trial proper than at the preliminary investigation level.[51]  Further, the presence or absence of the elements of the crime is evidentiary in nature and a matter of defense that may be passed upon only after a full-blown trial on the merits.[52]
+
+In Metropolitan Bank & Trust Co. v. Gonzales,[53]  we ruled that:
+x x x [T]he abuse of discretion is patent in the act of the Secretary of Justice holding that the contractual relationship forged by the parties was a simple loan for in so doing, the Secretary of Justice assumed the function of the trial judge of calibrating the evidence on record, done only after a full-blown trial on the merits. The fact of existence or non-existence of a trust receipt transaction is evidentiary in nature, the veracity of which can best be passed upon after trial on the merits, for it is virtually impossible to ascertain the real nature of the transaction involved based solely on the self-serving allegations contained in the opposing parties' pleadings. Clearly, the Secretary of Justice is not in a competent position to pass judgment on substantive matters. The bases of a part[ie]'s accusation and defenses are better ventilated at the trial proper than at the preliminary investigation.[54] (Emphasis supplied.)
+In this case, Secretary Gonzalez found no probable cause against petitioners for infringement of the JTI trademarks based on his conclusion that no fake Mild Seven and Mild Seven Lights were seized from FMC's premises during the raid. He already passed upon as authentic and credible the Joint Affidavit of Arrest/Seizure presented by petitioners which did not list Mild Seven and Mild Seven Lights cigarettes as among those items seized during the raid. In so doing, Secretary Gonzalez assumed the function of a trial judge, determining and weighing the evidence submitted by the parties.
+
+Meanwhile, the Complaint-Affidavit in the JTI infringement case shows that, more likely than not, petitioners have committed the offense charged.  FMC, alleged to be without authority to deal with JTI products, is claimed to have been manufacturing cigarettes that have almost the same appearance as JTI's Mild Seven and Mild Seven Lights cigarettes.
+
+As to the crime of False Designation of Origin, Section 169 of the IP Code provides:
+Sec. 169. False Designations of Origin; False Description or Representation. -
+
+1691. Any person who, on or in connection with any goods or services, or any container for goods, uses in commerce any word, term, name, symbol, or device, or any
+
+(a)
+Is likely to cause confusion, or to cause mistake, or to deceive as to the affiliation, connection, or association of such person with another person, or as to the origin, sponsorship, or approval of his or her goods, services, or commercial activities by another person; or
+
+
+
+(b)
+In commercial advertising or promotion, misrepresents the nature, characteristics, qualities, or geographic origin of his or her or another person's goods, services, or commercial activities, shall be liable to a civil action for damages and injunction provided in Sections 156 and 157 of this Act by any person who believes that he or she is or is likely to be damaged by such act.
+x x x
+
+Respondents alleged in their Complaint - Affidavit that petitioners illegally manufactured and/or stored cigarettes bearing the "DAGETA" label with an indication that these cigarettes were made in Germany even if they were actually processed, manufactured and packed in the premises of FMC. To support their claim, respondents submitted samples and attached a copy of the receipt/inventory of the items seized during the August 4, 2004 raid. These included cigarettes bearing the infringing DAGETA trademark and various machineries, receptacles, boxes and other paraphernalia used in the manufacturing and packing of the infringing products.[55]
+
+Petitioners, for their part, disputed respondents' claim and maintained that the items seized from their warehouse were genuine Dageta and Dageta International cigarettes imported from Germany. In dismissing the charge, Secretary Gonzalez ruled that respondents failed to establish the falsity of the claim indicated in the cigarettes' labels that they were made in Germany without providing the factual or legal basis for his conclusion. He also brushed aside the allegations that (1) machines intended for manufacturing cigarettes and (2) cigarettes' bearing the label "Made in Germany" were found and seized from FMC's warehouse in the Philippines . To our mind, however, these circumstances are enough to excite the belief that indeed petitioners were manufacturing cigarettes in their warehouse here in the Philippines but misrepresenting the cigarettes' origin to be Germany. The CA, therefore, did not err in reversing the Resolution of the Secretary of Justice.
+
+In fine, we see no compelling reason to disturb the ruling of the CA finding probable cause against petitioners for trademark infringement and false designation of origin.
+
+WHEREFORE,  the petition is  DENIED for lack of merit. The Decision dated March 31, 2011 and Resolution dated July 5, 2011 of the Court of Appeals in CA-G.R. SP No. 94587 are AFFIRMED. The Provincial Prosecutor of Pampanga is thus DIRECTED  to file Informations against petitioners for violations of:
+
+(a)
+Section 155 (Infringement), in relation to Section 170 of the IP Code in I.S. No. OCPSF-04-H-2047;
+
+
+(b)
+Section 169 (False Designation of Origin), in relation to Section 170 of the IP Code in I.S. No. OCPSF-04-H-2048; and
+
+
+(c)
+Section 155 (Infringment), in relation to Section 170 of the IP Code in I.S. No. OCPSF-04-H-2226.
+
+SO ORDERED.
+
+Velasco, Jr.,  (Chairperson),  Bersamin,, and Caguioa,* JJ., concur.
+Reyes, J., on official leave.
+
+
+
+N O T I C E  O F  J U D G M E N T
+
+Sirs/Mesdames :
+
+Please take notice that on March 6, 2017 a Decision, copy attached hereto, was rendered by the Supreme Court in the above-entitled case, the original of which was received by this Office on March 29, 2017 at 1:50 p.m.
+
+Very truly yours,
+
+(SGD.) WILFREDO V. LAPITAN
+Division Clerk of Court
+
+
+
+** Designated as Fifth Member of the Third Division per Special Order No. 2417 dated January 4, 2017.  
+
+[1] Rollo, pp. 10-41.   
+
+[2] Id. at 42-71. Penned by Associate Justice Florito S. Macalino with Associate Justices Juan Q. Enriquez , Jr. and Ramon M. Bato, Jr., concurring.   
+
+[3] Id. at 72-74.   
+
+[4] The CA Decision and Resolution also disposed of CA-G .R. SP Nos. 92825 and 93788. However, this petition for review on certiorari specifically questions only the ruling of the CA in CA -G.R. SP No. 94587.    
+
+[5] Rollo, pp. 84-87. Penned by then Secretary of Justice Raul M. Gonzalez.    
+
+[6] Id. at 82-83.   
+
+[7] Id. at 44-45.   
+
+[8] Id. at 229-230.   
+
+[9] Id. at231.   
+
+[10] Id. at 45.   
+
+[11] Id. at 231.  
+
+[12] Id. at45.   
+
+[13] Id. at 46.
+
+[14] Id at 48.   
+
+[15] Id. at 49-50.   
+
+[16] Id. at 50.   
+
+[17] Id. at 54.   
+
+[18] OCPSF-04-H-202 in some parts of the record.   
+
+[19] Rollo, pp. 219-221.   
+
+[20] Id. a t 222-224.  
+
+[21] Id. at 225-228.
+
+[22] Id. at 86.  
+
+[23] Id. at 75-81.
+
+[24] Id. at 77.
+
+[25] Id. at 78.
+
+[26] Id. at 80.
+
+[27] Id. at 87.
+
+[28] Id.
+
+[29] Rollo, p. 86.
+
+[30] Id. at 229-251 .
+
+[31] Id. at 69-70.
+
+[32] Id. at 70.
+
+[33] Id. at 29.
+
+[34] Id. at 32-33.
+
+[35] Id.at 31.
+ 
+[36] Id. at 313.
+
+[37] Id. at 314.
+
+[38] Sy v. Secretary of Justice, G.R. No. 1663 I 5, December 14, 2006, 511 SCRA 92, 96, citing Sarigumba v. Sandiganbayan, G.R. Nos. 154239-41 , February 16, 2005, 45 l SCRA 533, 550.
+
+[39] Miller v. Perez, G.R. No. 165412, May 30, 20 11 , 649 SCRA 158, 180.
+
+[40] Metropolitan Bank & Trust Co. (Metrobank) v. Tobias III, G.R. No. 17780, January 25, 2012, 664 SCRA 165, 176-177.
+
+[41] See United Coconut Planters Bank v. Looyuko, G.R. No. 156337, September 28, 2007, 534 SCRA 322, 330-331, citing First Women's Credit Corporation v. Perez, G.R. No. 169026, June 15, 2006, 490 SCRA 774,777.
+
+[42] United Coconut Planters Bank v. Looyuko, supra at 331, citing Rimbunan Hijau Group of Companies v. Oriental Wood Processing Corporation, G.R. No. 152228, September 23, 2005 470 SCRA 650 661.
+
+[43] G.R. No. 179367, January 29, 2014,715 SCRA 36 51. See also, Miller v. Secretary Perez, supra at 181; and Sy v. Secretary of Justice, supra at 99.
+
+[44] Rollo, pp. 77-78.
+
+[45] See Mendoza v. People, G.R. No. 197293, April 21 , 2014, 722 SCRA 647, 656.
+
+[46] Rollo, p. 279.
+
+[47] Skechers, U.S.A. , Inc. v. Inter Pacific industrial Trading Corp., G.R. No. 164321, March 28, 2011, 646 SCRA 448, 455.
+
+[48] Rollo, pp. 219-228; 236-237.
+
+[49]  Del Monte Corporation v. Court of Appeals, G.R. No. 78325, January 25, 1990, 181 SCRA 140,418-419.
+
+[50] Rollo, pp. 225-227.
+
+[51] Unilever Philippines, Inc. v. Tan, supra note 43 at 48-49, citing Lee v. KBC Bank N. V., G.R. No. 164673, January 15, 2010, 610 SCRA 117.
+
+[52] Clay & Feather International, inc. v. Lichaytoo, G.R. No. 193105, May 30, 2011 , 649 SCRA 516, 526, citing Andres v. Cuevas, G.R. No. 150869, June 9, 2005, 460 SCRA 38, 52.
+
+[53] G.R. No. 18016 , April 7, 2009, 584 SCRA 631.
+
+[54] Id. at 642.
+
+[55] Rollo, p. 223.
+
+
+
+Source: Supreme Court E-Library | Date created: August 19, 2020
+This page was dynamically generated by the E-Library Content Management System

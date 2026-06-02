@@ -1,0 +1,586 @@
+
+	
+Today is Tuesday, June 02, 2026home
+ConstitutionStatutesExecutive IssuancesJudicial IssuancesOther IssuancesJurisprudenceInternational Legal ResourcesLegal Links
+
+G.R. No. 164845/G.R. No. 181732/G.R. No. 185315, July 13, 2021,
+♦ Decision, Carandang, [J]
+♦ Separate Concurring Opinion, Leonen, [J]
+
+Manila
+
+EN BANC
+
+[ G.R. No. 164845. July 13, 2021 ]
+
+WILLIAM TIENG, WILSON TIENG, AND WILLY TIENG, PETITIONERS, VS. HON. JUDGE SELMA PALACIO-ALARAS, IN HER CAPACITY AS PRESIDING JUDGE OF MAKATI CITY RTC, BRANCH 62 AND HILARION HENARES, [JR.], RESPONDENTS.
+
+[G.R. No. 181732]
+
+WILLY TIENG, PETITIONER, VS. HILARION M. HENARES, JR. RESPONDENT.
+
+[G.R. No. 185315]
+
+HILARION M. HENARES, JR., PETITIONER, VS. WILLIAM TIENG AND PEOPLE OF THE PHILIPPINES, RESPONDENTS.
+
+D E C I S I O N
+
+CARANDANG, J.:
+
+These consolidated petitions present novel questions regarding Articles 355 and 360 of the Revised Penal Code (RPC). They arise from several charges of libel against Hilarion M. Henares, Jr. (Henares) for allegedly defamatory remarks he had uttered against William Tieng, Willy Tieng, and Wilson Tieng (collectively, Tieng brothers) on his daily program, "Make My Day with Larry Henares," broadcasted on radio and television.
+
+Antecedents
+
+The relevant facts of each petition are as follows:
+
+1. G.R. No. 185315
+
+Under Rule 45, Henares asssails the Decision1 of the Court of Appeals (CA) dated March 12, 2008 and Resolution2 denying reconsideration dated November 11, 2008 in CA-G.R. SP No. 87968.
+
+On February 19, 2002, William Tieng charged Henares with libel before the Regional Trial Court (RTC) of Parañaque City, Branch 274, docketed as Criminal Case No. 02-0194. The Information reads:
+
+That on or about the 29th day of November 2001 in the City of Parañaque, Philippines and within the jurisdiction of this Honorable Court, the above-named accused [Henares] being a broadcaster of the daily program "MAKE MY DAY" at Radio Station DWBR-FM 104.3 which is broadcasted/aired nationwide, without good intentions and justifiable motive, and with the malicious intent of impeaching the virtue and reputation and expose to public hatred, dishonor, discredit, and contempt and ridicule one WILLIAM TIENG, a private person and is not connected with any government agency, did then and there willfully, unlawfully and felonious cause to be aired, published, circulated an injurious and defamatory words (sic) relative to and concerning the person of said complainant which publication is contained in the transcript of the radio tape of said accused's program which reads as follows:
+
+'William Tieng (owner of KLG Inc. and his brothers are 'smugglers, corrupts, and mga walang konsensya, name droppers, bribing government officials, bragging influence with some government figures and other prominent figures such as the likes of Mr. Mike Velarde, previous President Joseph Estrada, Fred Lim etc.'
+
+and through the aforequoted defamatory imputations, has thus imputed against said complainant the commission of a crime, vice, defects and/or act, condition, status or circumstances which have caused him dishonor.
+
+CONTRARY TO LAW.3
+
+On May 25, 2004, Henares moved to quash4 the above Information on the following grounds: (1) that the Information does not conform substantially to the prescribed form; (2) that the facts charged do not constitute an offense; and (3) that the RTC Parañaque has no jurisdiction over the offense charged because the Information failed to allege that William Tieng actually resides in Parañaque City at the time of the commission of the crime or that the allegedly libelous matters was "printed and first published" in Parañaque City. He argues that radio and television broadcasts are permanent means of publications and are included in the "written defamations" referred to in the venue and jurisdictional requirements under Article 360 of the RPC.5
+
+In an Order6 dated September 20, 2004, the RTC denied Henares' motion to quash, holding that Article 360 of the RPC applies only to "written defamations" for purposes of determining the jurisdictional venue and that in radio broadcasts of libelous statements, what governs is Section 15 (a) of Rule 110 of the Revised Rules of Criminal Procedure, to wit:
+
+Section 15. Place where action is to be instituted. – (a) Subject to existing laws, the criminal action shall be instituted and tried in the court of the municipality or territory where the offense was committed or where any of its essential ingredients occurred.
+
+The RTC found no merit in the other grounds cited by Henares. The latter moved for reconsideration but was denied by the RTC in its Order dated October 18, 2004.7 He filed a Petition for Certiorari and prohibition with the CA, docketed as CA-G.R. SP PROC No. 87968 assailing the aforementioned orders of the trial court.8
+
+In its Decision9 dated March 12, 2008, the CA denied Henares' petition, ruling that Article 360 of the RPC applies exclusively to written publications. The CA agreed with the view of the Office of the Solicitor General viz.:
+
+[The third paragraph of Article 360 does not contemplate a case of libel that is broadcast through radio or television, as in the instant case. Because there is no printing and first publication of a radio or television broadcast to speak of. The moment words are uttered by the speaker over the radio or television, they are instantaneously and simultaneously heard or seen all over the area covered by the air wave signal of the radio or television station. Simply stated, written defamations are read; while libel by means of radio is hear[d].
+
+Since the law specifically mentions and refers only to 'written defamations', the phrases 'libelous articles' and 'printed and first published' used in the same article must necessarily be restricted and limited to 'written defamations' only and no other.10
+
+Henares moved for reconsideration, but the same was denied in the CA's Resolution11 dated November 11, 2008. Hence, this petition.
+
+Henares reiterates that Article 360 applies to radio broadcasts and contends that "written defamation" also refers to "libel by means of writing or similar means" as defined under Article 355, RPC, which encompasses libel committed by means of writing, printing, radio, photograph, theatrical exhibition, cinematographic or any similar means.12 He particularly cites the statement of Justice Ramon Aquino (later appointed as Chief Justice) in the case of Escribano v. Avila13 (Escribano), that "Libel by means of radio is a written defamation under Article 355 of the RPC."14 He also cites the following passage from People v. Santiago15 (Santiago):
+
+x x x [E]ven the word "radio" used in said Article 355, should be considered in relation to the terms with which it is associated – "writing, printing, lithography, engraving x x x phonograph, painting, theatrical exhibition or cinematographical exhibition" – all of which have a common characteristic, namely, their permanent nature as a means of publication, and this explains the graver penalty for libel than that prescribed for oral defamation. x x x16
+
+Furthermore, he cites Justice Florenz D. Regalado's observation that: "[t]hese (Article 355 of the RPC) are the means by which libel is committed and thus distinguishes it from slander or oral defamation."17 Thus, for purposes of distinguishing the forms of libel to which Article 360 applies, Henares argues that it is not between "written defamation" and "libel through similar means", but between "written defamation" and "oral defamation." He argues that the venue and jurisdiction rules in Article 360 also apply to radio broadcasts and all other similar means that may fall under Article 355, but not to oral defamation. Henares then goes on to say that Article 355 also covers television broadcasts and argues that analogous to newspapers, which have editorial and business offices, criminal actions for defamation committed on TV or radio should be instituted where the TV or radio station is located.18
+
+For his part, William Tieng argues that the aforequoted statement of Justice Aquino in Escribano is "not the ratio decidendi of the case, not even an obiter dictum"19 because it was enclosed in parenthesis. It should be treated as a mere side-comment because it was irrelevant to the issue in Escribano, which is "whether or not the Court of First Instance of Cotabato City is invested with the authority to conduct the preliminary investigation of the crime of libel committed by means of radio at Cotabato City or whether that power is lodge exclusively in the city attorney of that city."20
+
+William Tieng also points out that the language used by Cong. Inocencio v. Ferrer, in his explanatory note of the bill which became Republic Act No. (R.A.) 4363,21 which amended Article 360 to its current form, exclusively referred to "written defamations." He also points to judicially-recognized distinctions between radio and print media.22 As such, Tieng argues that according to both the text and legislative intent, Article 360 applies exclusively to written libel.23
+
+In its Comment,24 the Office of the Solicitor General (OSG) argues that only the first and last paragraphs of Article 360 applies to defamation in "writing or by similar means", while the second and third paragraphs apply exclusively to written forms of defamation.25 Citing Laquian v. Baltazar,26 where the Court had said that venue rules under Article 360 "refers exclusively to that relating to civil and criminal actions for written defamation," the OSG also argues that it is an exception which must be strictly construed as against the general rule on venues. If there is any doubt as to the application of Article 360, it must be resolved in favor of the general rule.27 The OSG also argues that the case of Escribano a case concerning defamation through radio, is not persuasive in this case because it dealt with a question concerning the fourth paragraph of Article 360 on whether or not judges have the authority to conduct preliminary investigations in defamation cases. Meanwhile, what is relevant in this case is the third paragraph of Article 360. Consequently, the cases of Agbayani v. Sayo28 (Agbayani) and Macasaet v. People29 have no application in this case. Therefore, the OSG argues that it was not necessary for the Information to specifically allege that the defamation was "printed and first published" in Parañaque City so that the RTC of said city may acquire jurisdiction over the criminal action. The OSG maintains that the Information was sufficient in its allegations.30
+
+On April 1, 2014, Henares informed this Court that the RTC of Parañaque City, Branch 274 had reversed its Judgment dated March 10, 2010 (which found him guilty of libel) and hence, acquitted him of the crime charged. However, he submitted that the questions of law involved in this petition had not been settled and asked the Court to decide on its merits.31
+
+2. G.R. No. 181732
+
+Under Rule 45, petitioner Willy Tieng assails the Decision32 dated November 20, 2007 and Resolution33 dated February 11, 2008 of the CA denying reconsideration dated February 11, 2008 in CA-G.R. SP No. 79863.
+
+Upon the complaint of Willy Tieng, three (3) counts of libels were filed against Henares, Luis Esteban Latorre, Aura Pascual-Binuya, and Atty. Mario Mina before the RTC Makati City, Branch 145 on December 4, 2002. These were docketed as Criminal Case Nos. 02-3585,34 02-3586,35 and 02-3587.36
+
+In Criminal Case No. 02-3585, the Information reads:
+
+That on or about the 28th of November 2001, in the City of Makati, Philippines, the above named accused, being then the commentator/broadcaster of a television program aired on IBC-Chanel 13 entitled "Make My Day With Larry Henares" with evident purpose of impeaching the virtue, honesty, integrity, and reputation of the person of WILLY TIENG and with malicious intent of exposing her (sic) to "public contempt" and ridicule, did then and there willfully, unlawfully and feloniously utter the following malicious and defamatory statements, to wit:
+
+THE THREE STOOGES OF CHINATOWN
+November 28, 2001
+
+'Whenever I see Larry, Mo and Curly at the 3 stooges television, I always get reminded of William, Wilson and Willy Tieng. Not that they wreck mayhem on each other like Larry, Mo and Curly do but on the contrary, they are brothers lovingly in tandem and they reek mayhem on the rest of the nation because of their alleged smuggling activities through the Duty Free, their production of pornographic and obscene movies, their alleged piracy of intellectual properties, their alleged corruption of the overstaffed bureaucracy of a government TV station during Erap's time, and their bare-faced blatant and irresponsible name dropping of big names to cater their ends.
+
+William Tieng is the eldest brother and he took over from his father at the age of 16 starting in a small office at Sto. Cristo in Binondo where he still holds office. He was followed by his brother, Wilson Tieng who now heads Solar Films, Inc., producer of the pornographic and obscene SUTLA starring Priscilla Almeda. And Will now heads the Solar Security in the Philippine Stock Exchange, but their old business is glassware conducted under Kian Liong KLG International. William somehow manages to import Duty Free goods in large quantities, surpassing Lucio Co in actual volume and work according to our informants, and together they are largely responsible for the bankruptcy of poultry farms and poultry fees (sic) in the country.1a⍵⍴h!1 So many producers are out of work because these smugglers have no conscience. Most of the chicken imported in the form of legs, drumstick, that have been in a cold storage for more than six (6) months and no longer considered fresh. These drumsticks are discounted 50% and dumped into the Philippines at the cut rate price way below the cost of Philippine chickens. Mark this, the amount of chicken legs exported to the Philippines according to U.S. export figures is 25% more than the amount of chicken legs exported by the United States to the Philippines are smuggled into the Philippines without paying duties. No wonder William Tieng has a secret bodega with a cover space of more than 3 hectares on Delgado Street in Parañaque, never been raided by our anti-smuggling task force. x x x
+
+The Tieng brothers drifted into the entertainment filed (sic) by bringing the Harlem Globe Trotters for a series of exhibition games in Manila thru another Chinese partner Mariano Nocom, friend of the Cunetas, who practically owns Pasay and is a high roller in a casino, and his son, Jun, under a subsidiary called Dearborn. They were able to get a behest loan of P500,000,000.00 which they used into building and leasing a huge building now occupied by Duty Free shops. They also set up a business branch in Subic not particularly good for ordinary legitimate business, but excellent for Duty Free activities. William, as we recounted before, was able to corrupt officials of RPN-9 television during Erap's time who conspired with him to pirate Thalia's Marimar TV property and then talked them into letting him to take over the entire marketing department of a government TV channel for milking and during Erap's time, was plotting together with Jesse Ejercito to take over the same station for a song on a "rehabilitate and operate basis". Although he never supported Erap in [t]he last Presidential campaign, and is definitely not part of Erap's promise, William Tieng achieved more by frequently appearing in a public with brother Mike Velarde, who he claimed to have helped him fast real estate deals in Parañaque and by loudly dropping the name of Secretary Alfredo Lim whose life he claimed his brother produced in a movie. Now, these business transactions brother Mike and Fred Lim hardly recall, but they should know that they are being used by William Tieng.
+
+This is Larry Henares making your day saying good day, God Bless You. Thank you very much for being with us. Till next time then, asta la bye bye!'
+
+and through the afore-quoted defamatory utterances accused had imputed against WILLY TIENG, the commission of a vice, defect and/or action condition, status or tending to cause dishonor and discredit or contempt to the private complainant, WILLY TIENG.
+
+CONTRARY LAW.37
+
+The Informations in Criminal Case Nos. 02-3586 and 02-3587 were similarly worded except for the dates. An Information each was filed to two incidents which respectively occurred on November 28 and 29, 2001, viz.:
+
+That on or about the 28th day of November 2001, in the City of Makati, Philippines, the above-named accused, being then the commentator/broadcaster, Producer, Executive Producer and Associate Producer/Legal Consultant, respectively of a radio program aired over radio station DWBR FM 104.3 entitled, "Make My Day with Larry Henares", with evident purpose of impeaching the virtue, honesty, integrity and reputation of the person of WILLY TIENG and with malicious intent of exposing her to public content and ridicule, did then and there willfully, unlawfully and feloniously utter the following malicious and defamatory statements, to wit:
+
+William Tieng, owner of KLG, Inc. and his brother are smugglers, corrupt and "mga walang konsensya,' name droppers, bragging influence with some government figures and other prominent persons such as the likes of Mr. Mike Velarde, previous President Joseph Estrada and Fred Lim, etc.'
+
+and through the afore-quoted defamatory utterances, accused had imputed against WILLY TIENG, the commission of a vice, defect, and/or act, condition, status or circumstances tending to cause dishonor and discredit contempt to the private complainant, WILLY TIENG."
+
+CONTRARY TO LAW.38
+
+That on or about the 29th day of November 2001, in the City of Makati, Philippines, the above-named accused, being then the commentator/broadcaster, Producer, Executive Producer and Associate Producer/Legal Consultant, respectively of a radio program aired over radio station DWBR FM 104.3 entitled, "Make My Day with Larry Henares", with evident purpose of impeaching the virtue, honesty, integrity and reputation of the person of WILLY TIENG and with malicious intent of exposing her to public content and ridicule, did then and there willfully, unlawfully and feloniously utter the following malicious and defamatory statements, to wit:
+
+William Tieng, owner of KLG, Inc. and his brother are smugglers, corrupt and "mga walang konsensya,' name droppers, bragging influence with some government figures and other prominent persons such as the likes of Mr. Mike Velarde, previous President Joseph Estrada and Fred Lim, etc.'
+
+and through the afore-quoted defamatory utterances, accused had imputed against WILLY TIENG, the commission of a vice, defect, and/or act, condition, status or circumstances tending to cause dishonor and discredit contempt to the private complainant, WILLY TIENG."
+
+CONTRARY TO LAW.39
+
+On February 18, 2003, Henares filed a motion to quash40 the above three Informations on the following grounds: (1) that the information in Criminal Case No. 02-3585 is defective in form because it does not specify which part of the lengthy quotation is libelous per se; (2) that the facts alleged in the Informations in Criminal Case Nos. 02-3586 and 02-3587 do not constitute an offense because Willy Tieng was not identified or even described with sufficient particularity as the object of the allegedly libelous statements;41 and (3) that in accordance with Article 360 of the RPC, the RTC Makati City, Branch 145, has no jurisdiction over the offense charged because all three Informations failed to allege that the private complainant was a resident of Makati City or that the libelous material was first published in Makati City.42
+
+The prosecution opposed,43 arguing that since the remarks were broadcasted through radio and television, what applies is the general rule on venues in criminal cases, i.e., the place where the crime or any of its essential ingredients was committed, that is in any place where the libelous statements were broadcasted, heard or viewed. The prosecution argued that the venue rules in the third paragraph of Article 360 of the RPC, with respect to the rules on venue, applies only to cases of "written defamation" and not to the present case, which was aired through radio and television broadcasts.44
+
+In a Joint Order45 dated July 31, 2003, the RTC of Makati City, Branch 145 denied the motion to quash, ruling that the mere allegation that the statements were uttered in the Makati City is sufficient to confer jurisdiction to the court.46 Henares moved for reconsideration but was denied by the RTC's Order47 dated September 9, 2003. He filed a petition for certiorari and prohibition before the CA, docketed as CA-G.R. SP No. 79643.48
+
+In a Decision49 dated November 20, 2007, the CA granted his petition. The CA held that although the third paragraph of Article 360 of the RPC refers to "cases of written as provided for in this chapter [Title Thirteen, Crimes Against Honor, Chapter One – Libel]," what it actually meant is written defamation and other similar means under Article 355, which provides:
+
+Article 355. Libel means by writings or similar means. – A libel committed by means of writing, printing, lithography, engraving, radio, phonograph, painting, theatrical exhibition, cinematographic exhibition, or any similar means, shall be punished by prision correccional in its minimum and medium periods or a fine ranging from 200 to 6,000 pesos, or both, in addition to the civil action which may be brought by the offended party.
+
+The CA noted that none of three Informations alleged the fact that any of the respondents resided in Makati City at the time of the subject alleged defamation, hence, venue was improperly laid. Consequently, the CA annulled and set aside the orders of the RTC and quashed the Informations. The dispositive portion of its Decision states:
+
+WHEREFORE, in light of all the foregoing, the instant Petition for Certiorari and Prohibition is GRANTED. Accordingly, the challenged orders are ANNULLED and SET ASIDE, and a new one is entered QUASHING the three pieces of Information.
+
+IT IS SO ORDERED.50
+
+Petitioner Willy Tieng moved for reconsideration but was denied by the Resolution dated February 11, 2008 of the CA.51 He now prays for this Court to reverse and to uphold the RTC's Joint Order dated July 31, 2003. He claims that Article 360, RPC, exclusively applies to written libel as it clearly used the words "defamation in writing," "written defamations," "libelous article," "printed and first published." Invoking noscitur a sociis, the rule in statutory construction that "words and phrases in statutes are construed in connection with, and their meaning is ascertained by reference to the words and phrases with which they are associated,"52 he argues that while the term "publish" may also refer to publication by radio, television, and any other means of libel, it cannot be used conjunctively with the term "print" as the latter can only refer to written publications; never to radio or television. Even assuming arguendo that the third paragraph of Article 360 applies to radio and television broadcasts, he argues that the Court must consider the libel to be "first published" in all areas covered by the radio and television stations' frequencies, because the statements are heard from the moment they are uttered. Because the stations in question cover Makati City, he argues that the three Informations have properly alleged the place of first publication.53
+
+3. G.R. No. 164845
+
+Under Rule 65, petitioners Tieng brothers raise pure questions of law in assailing the Orders dated April 26, 200454 and June 8, 200455 issued by RTC of Makati City, Branch 62.
+
+On March 25, 2002, the Tieng brothers filed a civil Complaint56 for damages before the RTC of Makati City, Branch 62, docketed as Civil Case No. 02-359 against Henares, Luis Esteban Latorre, Aura Pascual-Binuya, and Atty Mario Mina, the latter three alleged to be the producer, executive producer, and associate producer/legal consultant57 of Henares' program, "Make My Day with Larry Henares". The complaint arose from allegedly defamatory remarks uttered by Henares on the program aired on Chanel 13 on November 23 and 28, 2001 which were then repeated over at radio station DWBR-FM 104.3 on November 28 and 29. The Tieng brothers prayed for exemplary, temperate, and nominal damages in the aggregate amount of P40,000,000.00 and P1,800,000.00 in attorney's fees and expenses of litigation.58
+
+Civil Case No. 02-359 alleges four (4) incidents of libel, which consists of the three incidents complained of by Willy Tieng in Criminal Case Nos. 02-3585, 02-3586, and 02-3587 (later filed on December 4, 2002 with the RTC Makati Branch 145) and one other incident which allegedly occurred in November 23, 2001.59 Based on the records, the said November 23, 2001 incident complained of in Civil Case No. 02-359 does not appear to have a criminal case counterpart.60
+
+On April 29, 2002, another related criminal case for libel, docketed as Criminal Case No. 02-1103, was also filed before RTC of Makati, Branch 145. This charge is based on the radio broadcast of November 28, 2001, complained of by the Tieng brothers in Civil Case No. 02-359.61
+
+On December 3, 2002, Henares moved62 for Criminal Case No. 02-1103 and Civil Case No. 02-359 to be consolidated in RTC of Makati, Branch 62 on the ground that under Article 360, RPC, since the civil case was first instituted in RTC of Makati, Branch 62, the subsequent criminal case must also be filed in said branch.63 The prosecution also moved for consolidation, but argued that the cases be consolidated in Branch 145 on the basis of Section 1 of Rule 111.64 The RTC of Makati Branch 145 agreed with Henares' position and ordered the consolidation of Criminal Case No. 02-1103 with Civil Case No. 02-359 to be tried jointly in RTC of Makati, Branch 62.65
+
+On February 18, 2004, Henares moved in Civil Case No. 02-359 for a preliminary hearing on his affirmative defenses, which he also pleaded as grounds for dismissal.66 He argued that the RTC of Makati, Branch 62 lacked jurisdiction and that venue was improperly laid because the Complaint failed to allege that the plaintiffs are actually residing in Makati City at the time of the commission of the offense as required under Article 360 of the RPC.67 In the assailed Order dated April 26, 2004, the RTC of Makati, Branch 62 granted Henares' motion and dismissed Civil Case No. 02-359. The dispositive portion of the Order states:
+
+1. Civil Case No. 02-359 [is] hereby ordered dismissed on the ground of lack of jurisdiction and improper venue without prejudice to re-filing of the civil case where the first criminal case was filed, which from the records, is Criminal Case No. 02-0194 now pending with [B]ranch 274 of the Regional Trial Court of Parañaque, unless an earlier case was filed.
+
+2. With the dismissal of Civil Case No. 02-359, the consolidation of [C]riminal [C]ase 02-1103 from [B]ranch 145 to [B]ranch 62 of this Court finds no legal basis. Concomitantly, the Order of this Court dated October 16, 2003 is set aside and Criminal Case No. 02-1103 is referred back to the court of origin, Branch 145 of the Regional Trial Court of Makati, for further proceedings on the merits.
+
+SO ORDERED.68
+
+Based on the above, RTC of Makati, Branch 62 was of the view that under Article 360 of the RPC, the civil action for libel should be filed in the same court where the criminal action is filed and vice versa. Since the earliest case, Criminal Case No. 02-0194, was filed on February 19, 2002 with the RTC of Parañaque, then the Tieng brothers should also have filed their civil complaint in the Parañaque court.69
+
+The parties moved for consideration of the aforementioned Order but were denied in the Order dated June 8, 2004 of the RTC.
+
+On August 27, 2004, the Tieng brothers filed a Petition for Certiorari, docketed as G.R. No. 164845, assailing the Orders dated April 26 and June 8, 2004 of the RTC of Makati, Branch 62 in Civil Case No. 02-359. The Tieng brothers claim that the respondent judge committed grave abuse of discretion amounting to lack or excess of jurisdiction when she ruled that the RTC Makati City, Branch 62, has no jurisdiction over Civil Case No. 02-359 since the RTC of Parañaque, Branch 274 earlier acquired jurisdiction over a related criminal case, and hence, exercise jurisdiction over the civil case to the exclusion of other courts.70
+
+As in the other petitions, the Tieng brothers argue that Article 360, RPC, applies only to written forms of defamation. They also argue that under Section 3 of Rule 111, in relation to Article 33 of the Civil Code, the civil action for damages arising from radio or television libel should proceed independently of the criminal action.71 Consequently, since venue is not jurisdictional in civil cases, it may be waived, citing the following statements of the Court En Banc in Time Inc. v. Reyes:72
+
+The rule is that where a statute creates a right and provides a remedy for its enforcement, the remedy is exclusive; and where it confers jurisdiction upon a particular court, that jurisdiction is likewise exclusive, unless otherwise provided. Hence, the venue provisions of Republic Act No. 4363 should be deemed mandatory for the party bringing the action, unless the question of venue should be waived by the defendant, which was not the case here.73 (Emphasis supplied)
+
+They also cite Diaz v. Judge Adiong,74 where we had also said:
+
+Withal, objections to venue in civil actions arising from libel may be waived; it does not, after all, involve a question of jurisdiction. Indeed, the laying of venue is procedural rather than substantive, relating as it does to jurisdiction of the court over the person rather than the subject matter. Venue relates to trial and not to jurisdiction.
+
+Finally, Sec. 1 of Rule 16 provides that objections to improper venue must be made in a motion to dismiss before any responsive pleading is filed. Responsive pleadings are those which seek affirmative relief and set up defenses. Consequently, having already submitted his person to the jurisdiction of the trial court, petitioner may no longer object to the venue which, although mandatory in the instant case, is nevertheless waivable. As such, improper venue must be seasonably raised, otherwise, it may be deemed waived.
+
+The Tieng brothers argue that Henares waived venue in Civil Case No. 02-359 because he failed to file a motion to dismiss and in fact, had already filed his answer and pre-trial brief. Thus, they argue that the RTC of Makati, Branch 62, should not have dismissed the case.75
+
+Henares argued that he never waived venue since it was one of the affirmative defenses he raised. By doing so, he should be considered to have filed a motion to dismiss in accordance with Section 6 of Rule 16.76 Furthermore, he clarifies that the second and third provisos in the third paragraph of Article 360, refer to jurisdiction and not venue.77
+
+Issues
+
+The petitions present the following issues:
+
+1. Whether the rules of venue and jurisdiction provided under Article 360 of the RPC apply to radio and television broadcasts;
+
+2. Whether the RTC of Makati, Branch 62 dismissal in Civil Case No. 02-359 was in accordance with Article 360 of the Revised Penal Code; and
+
+3. Whether under Article 360 of the RPC, venue of the civil action is also jurisdictional.
+
+Ruling of the Court
+
+A charge of defamation through radio broadcasts must he instituted in accordance with Article 360 of the Revised Penal Code.
+
+It is settled that venue is jurisdictional in criminal cases. Venue in criminal cases not only determines where the action must be instituted, but also the court that has jurisdiction to try and hear the case. In David v. Marquez,78 the Court said:
+
+It is a fundamental rule that for jurisdiction to be acquired by courts in criminal cases, the offense should have been committed or any one of its essential ingredients took place within the territorial jurisdiction of the court. Territorial jurisdiction in criminal cases is the territory where the court has jurisdiction to take cognizance or to try the offense allegedly committed therein by the accused. Thus it cannot take jurisdiction over a person charged with an offense allegedly committed outside of that limited territory. Furthermore, the jurisdiction of a court over a criminal case is determined by the allegations in the complaint or information. And once it is so shown, the court may validly take cognizance of the case. However, if the evidence adduced during the trial show that the offense was committed somewhere else, the court should dismiss the action for want of jurisdiction.79 (Emphasis and underscoring supplied.)
+
+Thus, under Section 15, Rule 110 of the Rules of Court, the general rule is that the criminal action shall be instituted and tried in the court of the municipality or territory where the offense was committed or where any of its essential ingredients occurred. In certain cases, the law may provide for a different rule. The third paragraph of Article 360 of the RPC, as amended by R.A. 4363, pertinently provides:
+
+Article 360. Persons responsible. – Any person who shall publish, exhibit, or cause the publication or exhibition of any defamation in writing or by similar means, shall be responsible for the same.
+
+The author or editor of a book or pamphlet, or the editor or business manager of a daily newspaper, magazine or serial publication, shall be responsible for the defamations contained therein to the same extent as if he were the author thereof.
+
+The criminal and civil action for damages in cases of written defamations as provided for in this chapter, shall be filed simultaneously or separately with the court of first instance of the province or city where the libelous article is printed and first published or where any of the offended parties actually resides at the time of the commission of the offense: Provided, However, That where one of the offended parties is a public officer whose office is in the City of Manila at the time of the commission of the offense, the action shall be filed in the Court of First Instance of the City of Manila or of the city or province where the libelous article is printed and first published, and in case such public officer does not hold office in the City of Manila, the action shall be filed in the Court of First Instance of the province or city where he held office at the time of the commission of the offense or where the libelous article is printed and first published and in case one of the offended parties is a private individual, the action shall be filed in the Court of First Instance of the province or city where he actually resides at the time of the commission of the offense or where the libelous matter is printed and first published: Provided, Further, That the civil action shall be filed in the same court where the criminal action is filed and vice versa: Provided, Furthermore, That the court where the criminal action or civil action for damages is first filed shall acquire jurisdiction to the exclusion of other courts x x x. (Emphasis supplied underscoring supplied)
+
+In People v. Macasaet,80 citing Agbayani,81 the Court made a restatement of the foregoing provision, viz.:
+
+1. Whether the offended party is a public official or a private person, the criminal action may be filed in the Court of First Instance (CFI) of the province or city where the libelous article is printed and first published.
+
+2. If the offended party is a private individual, the criminal action may also be filed in the Court of First Instance of the province where he actually resided at the time of the commission of the offense.
+
+3. If the offended party is a public officer whose office is in Manila at the time of the commission of the offense, the action may be filed in the Court of First Instance of Manila.
+
+4. If the offended party is a public officer holding office outside of Manila, the action may be filed in the Court of First Instance of the province or city where he held office at the time of the commission of the offense.82 (Emphasis supplied)
+
+The issue is rooted in the fact that the third paragraph of Article 360 does not explicitly mention "libel by other similar means" and only refers to "written defamations as provided for in this chapter". However, this was dealt with by the Court in Bocobo v. Estanislao83 (Bocobo), as follows:
+
+It is the contention of respondents that the alleged libel, having arisen from a radio broadcast, is triable by a municipal court, for in a later portion of Article 360 the phrase "by similar means," is not repeated thus leading them to conclude that it is only where there is "defamation in writing" that there is conferment of exclusive jurisdiction in a court of first instance. Such an argument does not carry weight. It loses sight of the basic purpose of the act, namely, to prevent inconvenience or even harassment to those unfortunate enough to be accused of libel, if any municipal court where there was publication could be chosen by the complainant as the venue. Since a radio broadcast may be spread far and wide, much more so than in cases of newspaper publications, it is not difficult to imagine how deplorable the effect would be for one indicted for such an offense even if he could rely on a sound and valid offense.84 (Emphasis and underscoring supplied)
+
+Admittedly, the above passage in Bocobo, which the Court En Banc reiterated in People v. Benipayo,85 was specifically with regard to whether Article 360 conferred the CFI exclusive jurisdiction (as against municipal courts) to try written defamations, but importantly, it shows that Article 360 applies to written defamations as well as those committed by "similar means" as enumerated in Article 355, e.g., radio. In line with Bocobo and the policy considerations of R.A. 4363 discussed below, the Court rejects the Tieng brothers' overly literal view that Article 360 exclusively applies to written defamation.
+
+In Agbayani,86 another case of defamation on radio, we discussed the very reason behind the R.A. 4363 's amendment of Article 360, RPC, viz.:
+
+Article 360 in its original form provided that the venue of the criminal and civil actions for written defamations is the province wherein the libel was published, displayed or exhibited, regardless of the place where the same was written, printed or composed. Article 360 originally did not specify the public officers and the courts that may conduct the preliminary investigation of complaints for libel.
+
+Before article 360 was amended, the rule was that a criminal action for libel may be instituted in any jurisdiction where the libelous article was published or circulated, irrespective of where it was written or printed (People vs. Borja, 43 Phil. 618). Under that rule, the criminal action is transitory and the injured party has a choice of venue.
+
+Experience had shown that under that old rule the offended party could harass the accused in a libel case by laying the venue of the criminal action in a remote or distant place. x x x
+
+To forestall such harassment, Republic Act No. 4363 was enacted. It lays down specific rules as to the venue of the criminal action so as to prevent the offended party in written defamation cases from inconveniencing the accused by means of out-of-town libel suits, meaning complaints filed in remote municipal courts (Explanatory Note for the bill which became Republic Act No. 4363, Congressional Record of May 20, 1965, pp. 424-5; Time, Inc. vs. Reyes, L-28882, May 31, 1971, 39 SCRA 303, 311).87 (Emphasis and underscoring supplied)
+
+With this in mind, we hold that if the defamatory statement is alleged to have been made through radio, Article 360 of the RPC — not Section 15, Rule 110 of the Rules of Court – is what governs in determining the venue of the action. This conclusion is supported by the rule that in construing a statute, the mischief intended to be removed or suppressed and the causes which induced the enactment of a law are important factors to be considered in its construction.88 "It is fundamental that once the policy or purpose of the law has been ascertained, effect should be given to it by the judiciary, x x x Certainly, we must reject a construction that at best amounts to a manifestation of verbal ingenuity but is certainly at war with the policy enshrined in the law."89 There is no question that in his Explanatory Note for the bill which became R.A. 4363, Congressman Ferrer used language that would ordinarily apply to written forms of libel. However, the overall purpose of the bill was to introduce reforms in our libel laws that would prevent undue hardships on those accused of libel, viz.:
+
+Obscurities in the law should be removed, more particularly in penal laws where the liberty of an individual is always involved. A defective law which may cause undue hardships for persons against whom it is enforced should be corrected immediately. This is the case of our libel law. It has been resorted to most often to harass certain individuals and this harassment occurs because of the defects in the law. 90
+
+A contrary ruling would go against the clear policy of R.A. 4363 and permit the private offended party to institute the action in any court located within the radio station's coverage area, even at the very edge of it. Thus, hypothetically, if the radio station was in Makati City but its coverage area reached as far south as Laguna, the offended party could inconvenience the accused and institute the action as far as Laguna. This is the scenario that the Tieng brothers have in mind and is the very one that R.A. 4363 was designed to prevent.
+
+The Tieng brothers cite Telecommunication and Broadcast Attorneys of the Philippines Inc. v. Commission on Elections91 and Eastern Broadcasting (DYRE) Corporation v. Dans, Jr.92 cases where the Court had differentiated between print and radio media. However, the Court made such distinctions in those cases primarily within the context of election law (B.P. Blg. 881) and the constitutional freedom of expression vis-à-vis the government's right to be protected against broadcasts which incite listeners to violently overthrow it. Therefore, the distinctions do not squarely apply within the context of R.A. 4363's legislative policy.
+
+With that in mind, there is still a need to clarify what Article 360 means by the place where the "article is printed and first published" as regards defamation through radio. "Publication" in defamation cases simply refers to the act of communicating a defamatory statement to a third party.93 Radio broadcasts and newspapers may differ in the speed by which they are able to transmit defamatory statements, but what they share in common is that the source of transmission is almost always identifiable: a particular printing press or a radio station. In such cases, Article 360 will require that the criminal action be instituted in the court of the locality where the printing press or radio station is situated. Not all radio transmissions are emitted from a radio station. Armed with an FM transmitter, antenna, and basic soldering skills, anyone can create his own "pirate radio station" and use it to defame others from the comfort of his own basement, wherever that may be. But even in such cases where the private offended party has no way of knowing (and proving) where the radio signal was transmitting from, all is not lost for him because Article 360 gives him another venue: the place where he resided at the time the offense was committed. Thus, in Bonifacio v. Regional Trial Court of Makati, Branch 14994 (Bonifacio), a case involving the application of Article 360 to an allegedly libelous internet article, We said:
+
+If the circumstances as to where the libel was printed and first published are used by the offended party as basis for the venue in the criminal action, the Information must allege with particularity where the defamatory article was printed and first published, as evidenced or supported by, for instance, the address of their editorial or business offices in the case of newspapers, magazines or serial publications. This pre­condition becomes necessary in order to forestall any inclination to harass.
+
+The same measure cannot be reasonably expected when it pertains to defamatory material appearing on a website on the internet as there would be no way of determining the situs of its printing and first publication. To credit Gimenez's premise of equating his first access to the defamatory article on petitioners' website in Makati with "printing and first publication" would spawn the very ills that the amendment to Article 360 of the RPC sought to discourage and prevent. It hardly requires much imagination to see the chaos that would ensue in situations where the website's author or writer, a blogger or anyone who posts messages therein could be sued for libel anywhere in the Philippines that the private complainant may have allegedly accessed the offending website.
+
+For the Court to hold that the Amended Information sufficiently vested jurisdiction in the courts of Makati simply because the defamatory article was accessed therein would open the floodgates to the libel suit being filed in all other locations where the pepcoalition website is likewise accessed or capable of being accessed.95 (Emphasis and underscoring supplied)
+
+The above ruling in Bonifacio, which was promulgated before the passage of R.A. 10175 (Cybercrime Prevention Act of 2012), should be understood in light of Section 2.1 of the Rule on Cybercrime Warrants (A.M. No. 17-11-03-SC).96 However, the basic point of Bonifacio still applies to radio broadcasts: the Information must allege with particularity the location of the radio station transmitting the broadcast. We agree with Henares that similar to our observation in Soriano v. Intermediate Appellate Court97 that newspapers have editorial and business offices, the radio and television stations also have physical offices where libelous statements can be broadcasted or transmitted from. Their locations shall serve as the venue for actions for defamation committed through said radio or television stations.
+
+If the prosecution is unable allege the situs of first publication with sufficient specificity, then it is better to use the private offended party's residence at the time of the offense as basis for the venue of the action. These limitations imposed on libel actions filed by private persons are hardly onerous, especially as they still allow such persons to file the civil or criminal complaint in their respective places of residence, in which situation there is no need to embark on a quest to determine with precision where the libelous matter was first published.98
+
+We now turn to the other Information in G.R. No. 181732 (Criminal Case No. 02-3585), which is a case for defamation through television broadcast.
+
+Neither Article 355 nor Article 360 explicitly refers to "television," perhaps because at the time the RPC was enacted in 1930, television technology was arguably still in its infancy.99 The first well known television defamation case in the United States of America, Remington v. Bentley (88 F. Supp. 166 (S.D.N.Y. 1949), was promulgated only in 1949.100 The Court has encountered cases of defamation through television101 before, but there appears to be none where we have authoritatively dealt with issue of whether Article 360 applies to libel committed on television. However, under the ejusdem generis rule, We may deduce, by good and necessary consequence, that defamations through television broadcasts be treated in the same manner as radio broadcasts for purposes of Article 360. In City of  Manila v. Entote,102 We adopted the following descriptions of the ejusdem generis rule:
+
+Under the rule of construction known as "ejusdem generis", where general words follow the enumeration of particular classes of persons or things, the general words will be construed as applicable only to persons or things of the same general nature or class as those enumerated. The rule is based on the obvious reason that if the legislature had intended the general words to be used in their unrestricted sense they would have made no mention of the particular classes. (82 CJS 658-660.)
+
+General words, which standing alone might have a wide and comprehensive meaning, when joined with an enumeration of articles, things, and entities will be interpreted in their narrower sense and understood to refer only to articles, things and entities fairly similar in kind, class and nature to those set forth in the associated list of enumeration.103 (Sandack v. Tamme, C.A. N.M., 182F. 2d. 759.)
+
+Article 355 of the RPC punishes "libel committed by means of writing, printing, lithography, engraving, radio, phonograph, painting, theatrical exhibition, cinematographic exhibition, or any similar means x x x." In Santiago,104 the Court En Banc unanimously observed that the common characteristic of the forms of libel under Article 355 is their "permanent nature as a means of publication" which "explains the graver penalty for libel than that of prescribed for oral defamation." The nature of these media makes for a greater number of third persons to see, read, or hear the defamatory statements. Indeed, several third persons may come to know of the statement simultaneously. There is no doubt that radio and television broadcasts share these same characteristics. It is because of this that it may be difficult to prove with precision when and where the statement is first made known to a third person. Two persons – hundreds of kilometers apart – may be tuning into the radio or television broadcast at the exact moment the defamatory statement is uttered. If Article 360 is not made to apply, the subject of the defamation may lodge the action in the farthest possible place where the statement was heard. As explained above, this defeats the purpose of R.A. 4363. Therefore, it stands to reason that radio and television broadcasts should be considered in the same category.1âшphi1
+
+We may thus summarize that in libel through radio and television broadcasts, the private offended may file the criminal or civil action in the RTC of the province or city of:
+
+1) the radio or television station where the broadcast of the libelous statement originated; or
+
+2) his actual residence at the time the radio or televised broadcast was made.
+
+Either of these facts must be alleged in the Information so that the court may acquire jurisdiction over the offense charged. However, as per the Court's Resolution dated June 22, 2015, Henares informed us that the RTC of Parañaque proceeded with trying the case and eventually acquitted him. Thus, the petition in G.R. No. 185315 appears to have been mooted. There is no longer any need to quash the Information, as prayed for by Henares, because the accusation has not been proven to be true. In Peñafrancia Sugar Mill, Inc. v. Sugar Regulatory Administration,105 We said:
+
+A case or issue is considered moot and academic when it ceases to present a justiciable controversy by virtue of supervening events, so that an adjudication of the case or a declaration on the issue would be of no practical value or use. In such instance, there is no actual substantial relief which a petitioner would be entitled to, and which would be negated by the dismissal of the petition. Courts generally decline jurisdiction over such case or dismiss it on the ground of mootness. This is because the judgment will not serve any useful purpose or have any practical legal effect because, in the nature of things, it cannot be enforced.106
+
+Despite the issue being moot, the Court proceeded with resolving it because it is one that is "capable of repetition but evading review"107 insofar as it has also been raised in the other petitions. If the Court makes a declaration on the issue now, it may avoid future questions on Article 360 of the RPC as it applies to radio and/or television.
+
+Thus, in G.R. No. 185315, We find that the Information for Criminal Case No. 02-0194 failed to specifically allege that Radio Station DWBR-FM 104.3 is located in Parañaque City or that private offended party resided in said city at the time of the commission of the offense. As such, it does not comply with Article 360 of the RPC and so, did not vest jurisdiction to the RTC of Parañaque City. This would have been a ground for quashal under Section 3(b) of Rule 117 of the Rules of Court.
+
+Likewise, the Informations in G.R. No. 181732 all deserve quashing. In Criminal Cases Nos. 02-3586 and 02-3587, the Informations failed to allege that Radio Station DWBR-FM 104.3 is located in Makati City or that private offended party resided in said city at the time of the commission of the offense. Meanwhile, the Information in Criminal Case No. 02-3585 failed to allege that IBC-Chanel 13's television station is located in Makati City or that the private offended party resided in said city at the time of the televised broadcast.
+
+The second proviso of Article 360 requires joint hearing of the civil and criminal actions for libel in the court which first acquired jurisdiction over either action
+
+We now turn to the issue raised in G.R. No. 164845. Unlike in criminal cases, venue is generally not jurisdictional in personal civil actions. Thus, under Section 2 of Rule 4, personal actions may be commenced and tried where the plaintiff or any of the principal plaintiffs resides, or where the defendant or any of the principal defendants resides, or in the case of a non-resident defendant where he may be found, at the election of the plaintiff. One exception is when the law provides otherwise.108 It is well-settled that Article 360 requires that only one court handles both the criminal and civil actions for libel. If the two actions are filed at different times, they must be consolidated in the court which first acquires jurisdiction over either one. This has been understood to mean that only one judge tries both the civil and criminal actions. Thus, in Cojuango v. Court of Appeals109 (Cojuanco), We said:
+
+x x x [P]er the third paragraph of Article 360 of the Revised Penal Code, as amended, the criminal case for libel and the civil action for damages arising therefrom must be filed in the same court. x x x If the court referred to is a multi-sala court, it may happen, as in this case, that the criminal and civil actions are raffled or assigned to different salas. In this situation, consolidation of one with another earlier filed would not only be practical and economical -- it would subserve the very purpose of the law.  Consolidation of cases assigned to different branches of a court had earlier been recognized. In Raymundo, et al. vs. Felipe, et al., We held:
+
+"[A]lthough consolidation of several cases involving the same parties and subject-matter is a matter addressed to the discretion of the trial court, joint hearing becomes a matter of duty if two or more cases are tried before the same judge, or even if filed with the different branches of the same court of first instance, provided one of such cases has not been partially tried."
+
+This modified what this Court stated in PAL, et al. vs. Teodoro, et al., that the provision on consolidation refers to the consolidation of hearings of two (2) or more cases which are before the same judge, and not when the cases are pending before different courts or different branches of the same court.110 (Emphasis and underscoring in the original)
+
+As may be recalled, the earliest action instituted was Criminal Case No. 02-0194, which was filed with the RTC of Parañaque City on February 19, 2002. The utterances complained of in Civil Case No. 02-359 was not alleged to be the same as those in the Information in Criminal Case No. 02-0194, and therefore, do not arise from same libel incident. As such, the RTC of Makati, Branch 62, erred in deferring jurisdiction over the civil action to the RTC of Parañaque, Branch 274. In any case, the latter court did not acquire jurisdiction in Criminal Case No. 02-0194 because the Information was not compliant with Article 360 of the RPC.
+
+The second earliest action was Civil Case No. 02-359, filed with the RTC of Makati, Branch 62. As per our ruling in Cojuangco, Criminal Case Nos. 02-3585, 02-3586, and 02-3587 (which would later be filed on December 4, 2002) would have been consolidated in the RTC of Makati, Branch 62 had the Informations in those cases been valid and if RTC of Makati, Branch 62 validly acquired jurisdiction over the civil action. However, as will be explained below, the RTC Makati was still correct in dismissing Civil Case No. 02-359.
+
+Under Article 360 of the RPC, venue for the civil action of libel is jurisdictional; therefore, it cannot be lost through waiver or estoppel and must be properly laid for the RTC to acquire jurisdiction
+
+Venue and jurisdiction are two distinct concepts. In Radiowealth Finance Company, Inc. v. Pineda,111 the Court said:
+
+On the one hand, jurisdiction is "the power to hear and determine cases of the general class to which the proceedings in question belong." Jurisdiction is a matter of substantive law. Thus, an action may be filed only with the court or tribunal where the Constitution or a statute says it can be brought. Objections to jurisdiction cannot be waived and may be brought at any stage of the proceedings, even on appeal. When a case is filed with a court which has no jurisdiction over the action, the court shall motu proprio dismiss the case.
+
+On the other hand, venue is "the place of trial or geographical location in which an action or proceeding should be brought." In civil cases, venue is a matter of procedural law. A party's objections to venue must be brought at the earliest opportunity either in a motion to dismiss or in the answer; otherwise the objection shall be deemed waived. When the venue of a civil action is improperly laid, the court cannot motu proprio dismiss the case.
+
+Wrong venue is merely a procedural infirmity, not a jurisdictional impediment. Jurisdiction is a matter of substantive law, while venue is a matter of procedural law.112
+
+R.A. 4363 is peculiar in that, by amending Article 360 of the RPC, it grants exclusive jurisdiction to the RTC of particular geographical locations. The harms sought to be prevented by R.A. 4363 are just as real for the defendant in a civil case as they are for the accused in the criminal action. The "out-of-town libel suits" that prompted the amendment of Article 360 may come in either criminal or civil form. It is because of this that Article 360 requires the "x x x civil action for damages in cases of written defamations x x x be filed simultaneously or separately with the court of first instance of the province or city where the libelous article is printed and first published or where any of the offended parties actually resides at the time of the offense x x x." Clearly, Congress has deemed venue to be jurisdictional even in the civil action. It is only the RTC of the locality where the libel was first published or where the defendant resided at the time it was published that the civil action may be instituted – and nowhere else, not even the other locations normally available to a plaintiff under Section 2 of Rule 4.
+
+Congress has required under Article 360 of the RPC, that venue must be properly laid in the civil action, so much so that improper venue will mean that court will not acquire jurisdiction over the civil action. Conversely, the defenses of improper venue and lack of jurisdiction cannot be lost through waiver or estoppel in libel cases where Article 360 applies. Thus, even if Henares had not raised them in a motion to dismiss or in his answer, he is not precluded from doing so in the latter stages of the proceedings or even upon review of a higher court.113
+
+It is settled that jurisdiction over the subject matter of a complaint is conferred by law and determined by the allegations in the complaint which comprise a concise statement of the ultimate facts constituting the plaintiffs cause of action.114 Since venue is jurisdictional, the civil complaint must contain allegations that properly lay the venue. Therefore, in order for the RTC Makati City to acquire jurisdiction in Civil Case No. 02-359, the Tieng brothers must have alleged either: (1) that at least one of them was residing in Makati City at the time the offense was committed; or (2) that the defamatory statements complained of were first published in Makati City. (Parenthetically, We do not agree with Henares' position that all the plaintiffs must have alleged that they were residents of Makati at the time of the offense.) They failed to allege these material facts. It appears that they only alleged to be Makati residents at the time of the filing of the complaint.115 Meanwhile, they alleged that the principal office address of the television and radio stations (IBC-13 and/or DWBR-FM 104.3) is in Ibayo, Parañaque City.116 Thus, the RTC Makati City did not acquire jurisdiction over Civil Case No. 02-359. At most, the complaint should have been filed in the RTC of Parañaque City because as explained above, the location of the television or radio station may be alleged (and then proven) to be where a third party first heard of the defamatory statements. Consequently, the RTC Makati City Branch 62 was correct in dismissing the complaint for lack of jurisdiction, not because RTC of Parañaque Branch 274 acquired jurisdiction over Criminal Case No. 02-0194 – but simply because the complaint circumvented the requirements of Article 360. We do not think that such an error is so egregious to constitute grave abuse of discretion amounting to lack or excess of jurisdiction which is characterized as an "evasion of a positive duty or to a virtual refusal to perform a duty enjoined by law, or to act at all in contemplation of law, as where the power is exercised in an arbitrary and despotic manner by reason of passion and hostility."117 Therefore, the Rule 65 petition in G.R. No. 164845 lacks merit.
+
+WHEREFORE,
+
+1. In G.R. No. 185315, the petition is GRANTED. The Decision dated March 12, 2008 and the Resolution dated November 11, 2008 of the Court of Appeals in CA-G.R. SP PROC No. 87968 are hereby REVERSED and SET ASIDE. The Information in Criminal Case No. 02-0194 is hereby QUASHED and the case DISMISSED on the ground of lack of jurisdiction.
+
+2. In G.R. No. 181732, the petition is DENIED. The Decision dated November 20, 2007 and the Resolution dated February 11, 2008 of the Court of Appeals in CA-G.R. SP No. 79643 are AFFIRMED.
+
+3. In G.R. No. 164845, the petition is DENIED. The Orders dated April 26 and June 8, 2004 of the Regional Trial Court of Makati, Branch 62 in Civil Case No. 02-359 are hereby AFFIRMED.
+
+SO ORDERED.
+
+Gesmundo, C.J., Perlas-Bernabe, Caguioa, Hernando, Lazaro-Javier, Inting, Zalameda, M. Lopez, Gaerlan, Rosario, and J. Lopez, JJ., concur.
+
+Leonen, J., see separate opinion.
+
+
+Footnotes
+
+1  Penned by Associate Justice Jose C. Reyes, Jr. (Former Member of this Court), with the concurrence of Associate Justices Jose L. Sabio, Jr. and Myrna Dimaranan Vidal; rollo (G.R. No. 185315), pp. 38-46.
+
+2 Penned by Associate Justice Jose C. Reyes, Jr. (Former Member of this Court), with the concurrence of Associate Justices Jose L. Sabio, Jr. and Myrna Dimaranan Vidal; id at 48.
+
+3 Id. at 39.
+
+4 Rollo (G.R. No. 164845), pp. 134-150.
+
+5 Id. at 142-143
+
+6 Rollo (G.R. No. 185315), p.40.
+
+7 Id. at 33.
+
+8 Id.
+
+9 Id. at 38-46.
+
+10 Id. at 44.
+
+11 Id. at 38-46.
+
+12 Id. at 15.
+
+13 174 Phil. 490, 497 (1978).
+
+14 Rollo (G.R. No. 185315), p. 17.
+
+15 115 Phil. 219 (1962).
+
+16 Id. at 221.
+
+17 Rollo (G.R. No. 185315), p. 21.
+
+18 Id. at 20-21.
+
+19 Id. 85.
+
+20 Id.
+
+21 Reproduced in the footnotes of Escribano v. Avila, 174 Phil. 490 (1978).
+
+22 Rollo (G.R No. 185315), pp. 93-94, citing Telecommunication and Broadcast Attorneys of the Philippines Inc. v. Commission on Elections, 352 Phil. 153 (1998) and Eastern Broadcasting (DYRE) Corporation v. Dans, Jr. 222 Phil. 151 (1985).
+
+23 Id. at 94.
+
+24 Id. at 102-117
+
+25 Rollo, p. 110.
+
+26 142 Phil. 531 (1970).
+
+27 Id. at 113, citing Samson v. Court of Appeals, 145 SCRA 654 (1988).
+
+28 178 Phil. 574 (1979).
+
+29 492 Phil. 355 (2005).
+
+30 Rollo (G.R. No. 185315), pp. 112-115.
+
+31 Id. at 142.
+
+32 Penned by Associate Justice Apolinario D. Bruselas, Jr., with the concurrence of Associate Justices Bienvenido L. Reyes (Former Member of this Court) and Aurora Santiago-Lagman; rollo (G.R. No. 181732), pp. 37-47.
+
+33 Id. at 49-50.
+
+34 Id. at 51-53.
+
+35 Id. at 54-55.
+
+36 Id. at 56-57.
+
+37 Id. at 51-53.
+
+38 Id. at 54-55.
+
+39 Id. at 56-57.
+
+40 Id. at 58-76.
+
+41 Id. at 71-73.
+
+42 Id. at 68-70.
+
+43 Id. at 77-81.
+
+44 Id. at 77-78
+
+45 Id. at 97-99.
+
+46 Id. at 98-99.
+
+47 Id. at 122.
+
+48 Id. at 123-156.
+
+49 Rollo (G.R. No. 181732), p. 37-47.
+
+50 Id. at 47.
+
+51 Id. at 49-50.
+
+52 Id. at 17.
+
+53 Id. at 18-24.
+
+54 Rollo (G.R. No. 164845), pp. 29-33.
+
+55 Id. at 34-36-A.
+
+56 Id. at 37-45.
+
+57 Id. at 37.
+
+58 Id. at 43.
+
+59 Id. at 39. Complaint. Par. 8. The statements of November 23, 2001 alleged to be libelous in the Complaint are reproduced as follows:
+
+WHO IS WILSON AND WILLIAM TIENG?
+
+November 23, 2001
+
+With the help of Jesse Ejercito, brother of Erap, William Tieng once proposed to take over a government TV station with a proposal to rehabilitate and operate the bankrupt firm over a long period of time. According to the scuttlebutt William Tieng proposed to put a in money to purchase up-to-date equipment but the new equipment will belong to him not to the station. He will offer it and use his franchise, if there is any, and use it to generate profits for himself without any commitment to pay the P.18 million debt of the company or retire its over-staffed and over-paid employees or to give any return to the investors or to the government which took it over.
+
+Who is William Tieng? He is probably the most controversial businessman of Chinese ancestry involved in pornography, piracy and smuggling. Now, he and his brother, Wilson Tieng, also Tieng (ha ha) are the producers of the pornographic movie Sutla which caused quite a flurry in the community and was submitted for investigation to the Senate committee under Senator Ramon Revilla for pornography and obscenity. The copy of the films submitted to the Senate had six (6) minutes of the more objectionable portions deliberately cut up and out of contempt that open William and Wilson Tieng to Perjury charges for making false claims while under oath. With the help of the presidential relative on the previous administration, William was able to get a behest loan of P500,000,000.00 for a company called Dearborn with partner Mariano Nocom form the PNB and Landbank. He is now the biggest importer surpassing Lucio Co of Duty Free goods and all kinds through a company called KLG International, Inc. and hides the goods in a secret bodega which covering an area of over 3 hectares on Delgado Street, Parañaque.
+
+More about this after these words from our sponsors.
+
+William Tieng keeps dropping the name of Mike Velarde and General Alfredo Lim as his contact with the powers that be which is most likely alive (sic) because religious leader Mike Velarde and an honest public servant Fred Lim have most probably nothing to do with the likes of him. He and his brother, Wilson, were involved in a controversial Solar Films (sic) contracted with RPN-9 by which Solar Films took over all the functions of the marketing department of channel 9. They were accused by the stockholders and employees of conspiring to milk the sequestered company. William Tieng was said to have advanced P20,000,000.00 for the finalization of the P200,000,000.00 contract before it was finally rescinded following a public act law. But the most daring exploit of William Tieng is the alleged piracy of Thalia's "Marimar" TV episodes. He imported blank tapes by the contain van copied the Marimar episodes and distributed the pirated copies to video rental stores all over the country complete with VRB stickers from the Videogram Regulatory board and gimmicks likes t-shirts and panties. The VRB accused them of using fake stickers and sued them for piracy upon the complaint of Don Pedro Font of Protele who wanted $10,000,000.00 damages.
+
+William Tieng, with a battalion of lawyers confronted Pedro Font in his suite at the Shangrila Edsa Hotel with Don Pedro unmoved and determined to pursue the case of piracy against William Tieng. William shouted to his lawyers 'out, out of the room with all of you leave me alone with Señor Font. The two (2) of us will settle this alone man to man." As soon as the doors closed, William Tieng suddenly fell on the floor clutching the knees of Font, kissing his shoes and yes, crying, crying for mercy. Between laughter and confusion, Font settled for $2,000,000.00. "No escaballero conyo," he said, "es maricon."
+
+Ha ha till next week then asta la bye bye my dear friend, Larry Henares making your day! (Emphasis omitted)
+
+60 Id. at 38-42.
+
+61 Id. at 64.
+
+62 Id. at 59-61.
+
+63 Id. at 58-59.
+
+64 Id. at 62-63
+
+Rule 111, Section 1. Institution of criminal and civil actions. – (a) When a criminal action is instituted, the civil action for the recovery of civil liability arising from the offense charged shall be deemed instituted with the criminal action unless the offended party waives the civil action, reserves the right to institute it separately or institutes the civil action prior to the criminal action.
+
+x x x x
+
+Where the civil action has been filed separately and trial thereof has not yet commenced, it may be consolidated with the criminal action upon application with the court trying the latter case. If the application is granted, the trial of both actions shall proceed in accordance with section 2 of this Rule governing consolidation of the civil and criminal actions.
+
+65 Id. at 64-65.
+
+66 Id. at 97-110.
+
+67 Id. at 101, 106.
+
+68 Id. at 33.
+
+69 Id. at 32-33.
+
+70 Id. at 16-20.
+
+71 Id. at 16-18.
+
+72 148-A Phil. 255, 265 (1971).
+
+73 Id.
+
+74 292 Phil. 633, 639 (1993).
+
+75 Rollo (G.R. No. 164845), pp. 24-25.
+
+76 Rule 16. Section 6. Pleading grounds as affirmative defenses. – If no motion to dismiss has been filed, any of the grounds for dismissal provided for in this Rule may be pleaded as an affirmative defense in the answer and, in the discretion of the court, a preliminary hearing may be had thereon as if a motion to dismiss had been filed.
+
+77 Rollo (G.R. No. 164845) pp. 23-25.
+
+78 810 Phil. 187 (2017).
+
+79 Id. at 199-200, citing Foz Jr. v. People, 618 Phil, 120, 129-130 (2009).
+
+80 827 Phil. 15, 31-32 (2018).
+
+81 178 Phil. 574 (1979).
+
+82 Supra note 80 at 31-32.
+
+83 164 Phil. 516 (1976).
+
+84 Id. at 520.
+
+85 604 Phil. 317, 327-328 (2009).
+
+86 178 Phil. 574 (1979).
+
+87 Id. at 579-580
+
+88 Philippine Sugar Centrals Agency v. Collector of Customs, 51 Phil. 131, 145 (1927), citing Sutherland on Statutory Construction, Volume II, pp, 885-886.
+
+89 Supra note 85.
+
+90 Supra note 13.
+
+91 352 Phil. 153, 183-184 (1998).
+
+92 222 Phil. 151, 157-159 (1985).
+
+93 Manila Bulletin Publishing Corp. v. Domingo, 813 Phil. 37 (2017).
+
+94 634 Phil 348 (2010).
+
+95 Id. at 362-363.
+
+96 Section 2.1. Venue of Criminal Actions. – The criminal actions for violation of Section 4 (Cybercrime offenses) and/or Section 5 (Other offenses), Chapter II of RA 10175, shall be filed before the designated cybercrime court of the province or city where the offense or any of its elements is committed where any part of the computer system used is situated, or where any of the damage caused to a natural or juridical person took place: Provided, that the court where the criminal action is first filed shall acquire jurisdiction to the exclusion of the other courts.
+
+97 249 Phil. 220 (1988).
+
+98 Chavez v. Court of Appeals, 543 Phil. 262, 267 (2007), as cited in Bonifacio v. Regional Trial Court of Makati City, Branch 149, supra note 94.
+
+99 Magoun, Alexander B. Television: The life story of a technology (2007).
+
+100 Robert L. Hersh, Libel and Slander: Defamation by Television Broadcast Is Actionable Per Se, 46 Marq. L. Rev. 397 (1963). Available at: http://scholarship.law.marquette.edu/mulr/vol46/iss3/11
+
+101 See Soriano v. Laguardia, 605 Phil, 43 (2009); Filipinas Broadcasting Network, Inc. v. AMEC-BCCM, 489 Phil 380 (2005) citing 50 Am. Jur. 2d, Libel and Slander § 370;
+
+102 156 Phil. 498 (1974).
+
+103 Id. at 507.
+
+104 Supra note 15.
+
+105 728 Phil. 535 (2014).
+
+106 Id. at 540, citing Carpio v. Court of Appeals, 705 Phil 153, 163 (2013), citing Osmeña III v. Social Security System of the Philippines, 559 Phil. 723, 735 (2007).
+
+107 Lacson v. Perez, 410 Phil. 78, 118 (2001), citing the Dissenting Opinion of Justice Sandoval-Guitierrez.
+
+108 RULES OR COURT, Rule 4, Section 4(a).
+
+109 280 Phil. 678 (1991).
+
+110 Id. at 693-694.
+
+111 G.R. No. 227147, July 30, 2018, 874 SCRA 529, 533-534, citing Pilipinas Shell Petroleum Corporation v. Royal Ferry Services, Inc., 805 Phil. 13, 30-31 (2017).
+
+112 Id.
+
+113 Cabrera v. Clarin, 801 Phil. 141, 153 (2016), citing Zacarias v. Anacay, 744 Phil 201 24 (2014).
+
+114 Padlan v. Dinglasan, 707 Phil. 83, 91 (2013).
+
+115 Rollo (G.R. No. 164845), p. 37.
+
+116 Id. at 38.
+
+117 Chua v. People of the Philippines, 821 Phil. 271, 279-280 (2017), citing Yu v. Judge Reyes-Carpio 667 Phil. 474, 482 (2011).
+
+
+The Lawphil Project - Arellano Law Foundation
+
+
+	 

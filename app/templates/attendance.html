@@ -1,0 +1,37 @@
+{% extends "base.html" %}
+{% block content %}
+<h2>Attendance Logs</h2>
+<form class="filters" method="get">
+  <input name="member" value="{{ filters.member }}" placeholder="Member name">
+  <select name="classification">
+    <option value="">All classifications</option>
+    {% for item in classifications %}
+      <option value="{{ item }}" {% if filters.classification == item %}selected{% endif %}>{{ item }}</option>
+    {% endfor %}
+  </select>
+  <input name="date" type="date" value="{{ filters.date }}">
+  <button type="submit">Filter</button>
+</form>
+<form method="post" action="{{ url_for('sync') }}"><button type="submit">Sync to Firestore</button></form>
+
+<table>
+  <thead>
+    <tr>
+      <th>Member</th><th>Classification</th><th>Date</th><th>Time In</th><th>Time Out</th><th>Duration (sec)</th><th>Sync</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for r in records %}
+    <tr>
+      <td>{{ r.Name }}</td>
+      <td>{{ r.Classification }}</td>
+      <td>{{ r.Date }}</td>
+      <td>{{ r.TimeIn }}</td>
+      <td>{{ r.TimeOut or '-' }}</td>
+      <td>{{ r.Duration if r.Duration is not none else '-' }}</td>
+      <td>{{ r.SyncStatus }}</td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
+{% endblock %}

@@ -1,0 +1,9 @@
+{% extends "base.html" %}
+{% block content %}
+<section class="cards">
+  <article class="card"><h2>Members</h2><p>{{ member_count }}</p></article>
+  <article class="card"><h2>Attendance Logs</h2><p>{{ attendance_count }}</p></article>
+  <article class="card"><h2>Open Sessions</h2><p>{{ open_sessions }}</p></article>
+  <article class="card"><h2>Unsynced</h2><p>{{ unsynced }}</p></article>
+</section>
+{% endblock %}

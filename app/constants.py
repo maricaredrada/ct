@@ -1,0 +1,5 @@
+CLASSIFICATIONS = ("Cartoonist", "Writer", "Photojournalist")
+USER_STATUSES = ("active", "inactive")
+ADMIN_STATUSES = ("active", "inactive")
+SYNC_STATUSES = ("pending", "synced", "failed")
+ENROLLMENT_STATUSES = ("pending", "enrolled")

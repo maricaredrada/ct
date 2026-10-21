@@ -1,0 +1,30 @@
+{% extends "base.html" %}
+{% block content %}
+<h2>{{ 'Edit' if member else 'Register' }} Member</h2>
+<form method="post" class="form-grid">
+  <label>Name <input name="name" value="{{ member.Name if member else '' }}" required></label>
+  <label>Fingerprint ID <input name="fingerprint_id" type="number" value="{{ member.FingerprintID if member else '' }}" required></label>
+  <label>Classification
+    <select name="classification" required>
+      {% for item in classifications %}
+      <option value="{{ item }}" {% if member and member.Classification == item %}selected{% endif %}>{{ item }}</option>
+      {% endfor %}
+    </select>
+  </label>
+  <label>Status
+    <select name="status">
+      <option value="active" {% if not member or member.Status == 'active' %}selected{% endif %}>active</option>
+      <option value="inactive" {% if member and member.Status == 'inactive' %}selected{% endif %}>inactive</option>
+    </select>
+  </label>
+  {% if member %}
+  <label>Enrollment
+    <select name="enrollment_status">
+      <option value="pending" {% if member.EnrollmentStatus == 'pending' %}selected{% endif %}>pending</option>
+      <option value="enrolled" {% if member.EnrollmentStatus == 'enrolled' %}selected{% endif %}>enrolled</option>
+    </select>
+  </label>
+  {% endif %}
+  <button type="submit">Save</button>
+</form>
+{% endblock %}

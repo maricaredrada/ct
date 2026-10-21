@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Admin Login</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+  <main class="login-box">
+    <h1>Administrator Login</h1>
+    <p>Sign in using Firebase Authentication token.</p>
+    <form method="post" action="{{ url_for('auth_token') }}">
+      <label for="id_token">Firebase ID Token</label>
+      <textarea id="id_token" name="id_token" rows="5" required></textarea>
+      <button type="submit">Login</button>
+    </form>
+  </main>
+</body>
+</html>

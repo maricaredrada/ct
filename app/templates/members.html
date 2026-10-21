@@ -1,0 +1,40 @@
+{% extends "base.html" %}
+{% block content %}
+<h2>Members</h2>
+<form class="filters" method="get">
+  <input type="text" name="q" placeholder="Search name" value="{{ q }}">
+  <select name="classification">
+    <option value="">All classifications</option>
+    {% for item in classifications %}
+      <option value="{{ item }}" {% if selected_classification == item %}selected{% endif %}>{{ item }}</option>
+    {% endfor %}
+  </select>
+  <button type="submit">Filter</button>
+  <a class="button" href="{{ url_for('new_member') }}">Add Member</a>
+</form>
+
+<table>
+  <thead>
+    <tr>
+      <th>Name</th><th>Fingerprint ID</th><th>Classification</th><th>Status</th><th>Enrollment</th><th>Actions</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for m in members %}
+    <tr>
+      <td>{{ m.Name }}</td>
+      <td>{{ m.FingerprintID }}</td>
+      <td>{{ m.Classification }}</td>
+      <td>{{ m.Status }}</td>
+      <td>{{ m.EnrollmentStatus }}</td>
+      <td>
+        <a href="{{ url_for('edit_member', user_id=m.UserID) }}">Edit</a>
+        <form class="inline" method="post" action="{{ url_for('enroll_member', user_id=m.UserID) }}">
+          <button type="submit">Enroll</button>
+        </form>
+      </td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
+{% endblock %}
